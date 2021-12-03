@@ -15,3 +15,6 @@ oque é pull?
 
 Oque é Branch?
 sao ramificaçoes do projeto servem para separar grandes modificaçoes e evitam criar problemas no codigo principal
+
+Oque é Pull Request?
+é um pedido que se faz ao dono do repositorio para que esse atualize o código dele com o seu código
