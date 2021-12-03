@@ -3,3 +3,6 @@ Oque é um clone?
 
 Oque é um commit?
 é um grupo de alteraçoes no codigo
+
+Oque é um repositorio?
+é a pasta do projeto
