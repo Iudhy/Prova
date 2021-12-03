@@ -21,3 +21,6 @@ Oque é Pull Request?
 
 Oque é fork?
 é como um clone, porem dentro do github
+
+Oque é VCS?
+é um outro tipo de repositorio, mas no progama vscode
