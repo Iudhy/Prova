@@ -12,3 +12,6 @@ Oque é merge?
 
 oque é pull?
 é a atualizaçao do repositorio local
+
+Oque é Branch?
+sao ramificaçoes do projeto servem para separar grandes modificaçoes e evitam criar problemas no codigo principal
