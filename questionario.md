@@ -18,3 +18,6 @@ sao ramificaçoes do projeto servem para separar grandes modificaçoes e evitam cr
 
 Oque é Pull Request?
 é um pedido que se faz ao dono do repositorio para que esse atualize o código dele com o seu código
+
+Oque é fork?
+é como um clone, porem dentro do github
